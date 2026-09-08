@@ -5,4 +5,4 @@ __pycache__/
 venv/
 
 # Project architecture notes
-.job_finder_architecture.md
+job_finder_architecture.md
